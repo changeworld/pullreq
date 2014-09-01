@@ -1,4 +1,1 @@
-pullreq
-=======
-
-Pull Requestの説明用リポジトリ
+Welcome, Pull Request!
